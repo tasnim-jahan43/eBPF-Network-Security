@@ -1,0 +1,14 @@
+# Compiled eBPF objects
+*.o
+
+# Compiled executables
+/loader
+/problem1/loader
+/problem2/loader
+
+# Temporary logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
